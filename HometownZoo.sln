@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HometownZoo", "HometownZoo\HometownZoo.csproj", "{A087127B-9437-4C1D-B595-A059E5A13805}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HometownZoo.Tests", "HometownZoo.Tests\HometownZoo.Tests.csproj", "{5B093B0F-71CA-4219-82DF-ECF16FDE955D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A087127B-9437-4C1D-B595-A059E5A13805}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A087127B-9437-4C1D-B595-A059E5A13805}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A087127B-9437-4C1D-B595-A059E5A13805}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A087127B-9437-4C1D-B595-A059E5A13805}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B093B0F-71CA-4219-82DF-ECF16FDE955D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B093B0F-71CA-4219-82DF-ECF16FDE955D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B093B0F-71CA-4219-82DF-ECF16FDE955D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B093B0F-71CA-4219-82DF-ECF16FDE955D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2D3D02C-8D2D-4593-B3D6-764671718312}
+	EndGlobalSection
+EndGlobal
